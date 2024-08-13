@@ -1,0 +1,47 @@
+
+
+header{
+    text-align: center;
+    font-size: large;
+    font-style:italic;
+}
+.name{
+    text-align: center;
+    background-color:beige offs;
+    color: brown;
+}
+
+.img{
+    
+    display:block;
+    margin-left:50px;
+    margin-right:50px;
+
+    
+    
+}
+
+body{
+    background-color: #61b1b4;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px,50px;
+
+
+}
+footer{
+    font-style: bold;
+    text-align: center
+}
+
+.contact{
+    text-align:center;
+    border: solid 2px white;
+}
+
+.header{
+    border:solid 2px white;
+    text-align:center; 
+}
